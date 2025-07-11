@@ -1,0 +1,221 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "countries": ["US", "UK", "AU", "CA", "NZ", "IE", "ZA"],
+      "isOfficial": true
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "countries": ["ES", "MX", "AR", "CO", "PE", "VE", "CL", "EC", "GT", "CU", "BO", "DO", "HN", "PY", "SV", "NI", "CR", "PA", "UY", "GQ"],
+      "isOfficial": true
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "countries": ["FR", "CA", "BE", "CH", "LU", "MC", "SN", "CI", "ML", "BF", "NE", "TD", "MG", "CM", "CD", "CG", "CF", "GA", "GN", "BI", "BJ", "RW", "DJ", "KM", "SC", "VU", "PF"],
+      "isOfficial": true
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "countries": ["DE", "AT", "CH", "LI", "LU", "BE"],
+      "isOfficial": true
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "nativeName": "Italiano",
+      "countries": ["IT", "CH", "SM", "VA"],
+      "isOfficial": true
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "nativeName": "Português",
+      "countries": ["PT", "BR", "MZ", "AO", "GW", "TL", "ST", "CV"],
+      "isOfficial": true
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "nativeName": "Русский",
+      "countries": ["RU", "BY", "KZ", "KG", "TJ"],
+      "isOfficial": true
+    },
+    {
+      "code": "zh",
+      "name": "Chinese (Simplified)",
+      "nativeName": "中文（简体）",
+      "countries": ["CN", "SG"],
+      "isOfficial": true
+    },
+    {
+      "code": "zh-TW",
+      "name": "Chinese (Traditional)",
+      "nativeName": "中文（繁體）",
+      "countries": ["TW", "HK", "MO"],
+      "isOfficial": true
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "nativeName": "العربية",
+      "countries": ["SA", "EG", "DZ", "SD", "IQ", "MA", "YE", "SY", "TN", "JO", "AE", "LB", "LY", "PS", "OM", "KW", "MR", "QA", "BH", "DJ", "KM", "TD", "SO", "ER"],
+      "isOfficial": true
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "nativeName": "हिन्दी",
+      "countries": ["IN"],
+      "isOfficial": true
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "nativeName": "日本語",
+      "countries": ["JP"],
+      "isOfficial": true
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "nativeName": "한국어",
+      "countries": ["KR", "KP"],
+      "isOfficial": true
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "nativeName": "Nederlands",
+      "countries": ["NL", "BE", "SR"],
+      "isOfficial": true
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "nativeName": "Polski",
+      "countries": ["PL"],
+      "isOfficial": true
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "nativeName": "Türkçe",
+      "countries": ["TR", "CY"],
+      "isOfficial": true
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "nativeName": "Svenska",
+      "countries": ["SE", "FI"],
+      "isOfficial": true
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "nativeName": "Norsk",
+      "countries": ["NO"],
+      "isOfficial": true
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "nativeName": "Dansk",
+      "countries": ["DK"],
+      "isOfficial": true
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "nativeName": "Suomi",
+      "countries": ["FI"],
+      "isOfficial": true
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "nativeName": "ไทย",
+      "countries": ["TH"],
+      "isOfficial": true
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "nativeName": "Tiếng Việt",
+      "countries": ["VN"],
+      "isOfficial": true
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "countries": ["ID"],
+      "isOfficial": true
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "nativeName": "Bahasa Melayu",
+      "countries": ["MY", "BN"],
+      "isOfficial": true
+    },
+    {
+      "code": "tl",
+      "name": "Filipino",
+      "nativeName": "Filipino",
+      "countries": ["PH"],
+      "isOfficial": true
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "nativeName": "עברית",
+      "countries": ["IL"],
+      "isOfficial": true
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "nativeName": "فارسی",
+      "countries": ["IR", "AF", "TJ"],
+      "isOfficial": true
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "nativeName": "اردو",
+      "countries": ["PK"],
+      "isOfficial": true
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "nativeName": "বাংলা",
+      "countries": ["BD", "IN"],
+      "isOfficial": true
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "nativeName": "Kiswahili",
+      "countries": ["KE", "TZ", "UG", "RW", "BI", "CD"],
+      "isOfficial": true
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "nativeName": "አማርኛ",
+      "countries": ["ET"],
+      "isOfficial": true
+    }
+  ]
+}
